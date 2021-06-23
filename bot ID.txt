@@ -1,0 +1,5 @@
+ID : 856933756732702800
+
+INVITE LINK : https://discord.com/api/oauth2/authorize?client_id=856933756732702800&permissions=0&scope=bot
+
+TOKEN : ODU2OTMzNzU2NzMyNzAyODAw.YNIPwA.3mW8xE0y6kxoZnrq9Z_tHs4VSyk

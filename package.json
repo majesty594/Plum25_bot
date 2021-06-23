@@ -1,0 +1,22 @@
+{
+  "name": "plum25_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majesty594/Plum25_bot.git"
+  },
+  "author": "Majesty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majesty594/Plum25_bot/issues"
+  },
+  "homepage": "https://github.com/majesty594/Plum25_bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
